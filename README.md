@@ -1,2 +1,2 @@
 # AI-in-Finance
-Artificial Intelligence applied toFinance Projects  
+Artificial Intelligence applied to Financial Projects  
