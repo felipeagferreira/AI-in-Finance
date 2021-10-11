@@ -5,6 +5,7 @@ The goal of this project is to design and develop machine learning models for co
 We try and implement certain machine learning models such as Random Forest, Logistic Regression, Gradient Boosting Classifier, Naïve Bayes Classification.
 We mention a step by step process of how we train the machine, test and validate the models with hyper parameter tuning.  
 
+Noting that bankruptcy problems are highly imbalanced with far more observations being non-bankrupt than bankrupt, we use "SMOTE" to deal with the high imbalance problem of the dataset. 
 
 ### Data
 The input and output variables are described below:
